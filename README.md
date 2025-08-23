@@ -1,4 +1,4 @@
-***GitHub Repository Analyzer**
+**GitHub Repository Analyzer**
 
 A tool that analyzes any GitHub user’s profile and provides insights about their repositories, including most-used languages, stars, forks, and overall coding activity.
 
