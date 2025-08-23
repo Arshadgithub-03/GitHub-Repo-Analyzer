@@ -19,3 +19,30 @@ This project solves that problem by offering a clear, data-driven overview of a 
 🏆 Highlight most popular repositories
 
 📈 Provide an overall summary of coding activity
+
+
+How It Works
+
+Enter a GitHub username.
+
+The system fetches data using the GitHub API.
+
+The data is processed to find:
+
+Repo names
+
+Most-used languages
+
+Star & fork counts
+
+Top repositories
+
+Insights are displayed in a clean, user-friendly interface.
+
+📂 Use Cases
+
+✅ Developers → Showcase coding skills with clear analytics.
+
+✅ Recruiters → Quickly evaluate candidates’ coding habits & top projects.
+
+✅ Students → Present GitHub as a portfolio with structured insights.
